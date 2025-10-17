@@ -1,0 +1,23 @@
+{
+  "education": [
+    {
+      "institution": "University of Ruhuna, Faculty of Engineering",
+      "degree": "BSc (Hons) in Engineering",
+      "specialization": "Computer Engineering",
+      "gpa": "3.85",
+      "period": "2020 - 2025"
+    },
+    {
+      "institution": "Taxila Central College Horana",
+      "degree": "Advanced Level",
+      "results": "1A, 2B",
+      "period": "2017 - 2019"
+    },
+    {
+      "institution": "Taxila Central College Horana",
+      "degree": "Ordinary Level",
+      "results": "8A, 1C",
+      "period": "2011 - 2016"
+    }
+  ]
+}

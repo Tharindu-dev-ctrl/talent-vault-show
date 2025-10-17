@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "name": "Programming & Software Engineering",
+      "skills": [
+        "Software Engineering Principles",
+        "Design Patterns",
+        "Microservices Architecture",
+        "Event-Driven Architecture"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "skills": [
+        "Spring Boot",
+        "Node.js",
+        "Express",
+        "Python",
+        "Ballerina"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind CSS",
+        "Electron.js"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "skills": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "MSSQL",
+        "Oracle",
+        "Snowflake",
+        "Redshift",
+        "BigQuery",
+        "Databricks"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "CI/CD Pipelines",
+        "Jenkins",
+        "GitHub Actions",
+        "Terraform",
+        "Ansible"
+      ]
+    },
+    {
+      "name": "Data & AI",
+      "skills": [
+        "ETL Pipelines",
+        "AI Model Training",
+        "Model Fine-tuning",
+        "Apache Kafka"
+      ]
+    },
+    {
+      "name": "Other Tools",
+      "skills": [
+        "Git/GitHub",
+        "Linux",
+        "Agile Workflows",
+        "SonarQube",
+        "OWASP",
+        "Trivy"
+      ]
+    }
+  ]
+}

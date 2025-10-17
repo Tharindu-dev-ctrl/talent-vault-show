@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    {
+      "name": "Channa Wijerathna",
+      "role": "Software Engineer",
+      "company": "Zoomi Technologies Inc.",
+      "relationship": "Direct Manager",
+      "date": "September 29, 2025",
+      "text": "I had the pleasure of working with Tharindu during his internship at our company, where he contributed to our flagship project LayerNext - an AI-driven Business Data Analysis and Insights platform.\n\nFrom the very beginning, Tharindu demonstrated strong technical skills and a proactive attitude. He quickly became an integral part of the team, taking ownership of developing robust ETL pipelines that formed the backbone of our data flow architecture.\n\nWhat impressed me most was his ability to work independently with minimal guidance, yet always deliver high-quality results on time. He also showed versatility by contributing to our backend systems, using both Node.js and Python.\n\nTharindu is talented, dependable, and has a great mindset for learning and growth. I strongly recommend him for any future roles. He will be a great asset to any team.",
+      "linkedin": "https://www.linkedin.com/in/channa-wijerathna/"
+    },
+    {
+      "name": "Kushan Sudheera",
+      "role": "Senior Lecturer",
+      "company": "Department of Electrical and Information Engineering, University of Ruhuna",
+      "relationship": "Mentor",
+      "date": "January 1, 2025",
+      "text": "Tharindu Jayawardena is a talented developer who made an exceptional impact on the LifePill project. As the developer for the POS system and the frontend of the pharmacy management application, Tharindu demonstrated his ability to create intuitive and efficient user interfaces that streamline pharmacy operations.\n\nHe also took charge of pipeline development for web applications and the POS system, ensuring smooth and efficient deployment processes. Tharindu's attention to detail during QA testing of the pharmacy management application ensured the delivery of a high-quality product.\n\nTharindu's commitment to excellence and technical skills make him an asset to any team. I highly recommend him for opportunities in software engineering.",
+      "linkedin": "https://www.linkedin.com/in/kushan-sudheera/"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "certifications": [
+    {
+      "name": "Neo4j Certified Professional",
+      "issuer": "Neo4j",
+      "date": "July 2025"
+    },
+    {
+      "name": "AWS Educate Introduction to Cloud 101",
+      "issuer": "Amazon Web Services (AWS)",
+      "date": "February 2024"
+    },
+    {
+      "name": "Developing Backend Apps With Node.js and Express",
+      "issuer": "IBM",
+      "date": "August 2023"
+    },
+    {
+      "name": "Node and Express Essentials",
+      "issuer": "Coursera",
+      "date": "August 2023"
+    },
+    {
+      "name": "Javascript",
+      "issuer": "HackerRank",
+      "date": "July 2023"
+    },
+    {
+      "name": "MongoDB",
+      "issuer": "Great Learning",
+      "date": "July 2023"
+    },
+    {
+      "name": "Javascript Basics",
+      "issuer": "Coursera",
+      "date": "June 2023"
+    },
+    {
+      "name": "Python Data Structures",
+      "issuer": "University of Michigan",
+      "date": "January 2021"
+    },
+    {
+      "name": "Python for Everybody",
+      "issuer": "University of Michigan",
+      "date": "December 2020"
+    }
+  ]
+}

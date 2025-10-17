@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "name": "QuickHammer",
+      "description": "A microservice-based web application for finding remote jobs and gigs built using event-driven architecture. Developed 8 microservices with best practices including saga orchestrator, choreographer, and resilience patterns. Implemented CI/CD pipeline.",
+      "tech": ["Spring Boot", "React", "Microservices", "Event-Driven Architecture", "CI/CD"],
+      "github": "https://github.com/TheTharz/QuickHammer",
+      "website": null,
+      "status": "Ongoing (Started August 2025)"
+    },
+    {
+      "name": "LifePill",
+      "description": "A software application designed to help find rare medicines and manage prescriptions efficiently. Developed the complete frontend for the web application and POS system using React and Electron.js. Contributed to database design and developed CI pipeline using Jenkins with SonarQube and OWASP quality controls.",
+      "tech": ["React", "Electron.js", "Jenkins", "SonarQube", "OWASP"],
+      "github": "https://github.com/Life-Pill",
+      "website": null,
+      "status": "Completed"
+    },
+    {
+      "name": "E-Rides",
+      "description": "A fully-featured e-bike rental platform built on scalable, event-driven architecture. Each function is handled by a dedicated microservice with database per service design. Designed system architecture and developed four key microservices (bike, review, reward, payment). Configured production-ready system with CI pipeline.",
+      "tech": ["Ballerina", "React", "PostgreSQL", "MongoDB", "Apache Kafka", "Nginx", "Docker"],
+      "github": "https://github.com/Team-OrByte",
+      "website": null,
+      "status": "Completed (First Runners Up - Innovate with Ballerina 2025)"
+    },
+    {
+      "name": "DevNerd",
+      "description": "A responsive blog application leveraging Sanity for content management, featuring speech-to-text functionality using Web Speech API. CI/CD pipelines using GitHub Actions ensure automated testing and deployment.",
+      "tech": ["React", "TypeScript", "Sanity", "Web Speech API", "GitHub Actions"],
+      "github": null,
+      "website": "https://thetharz.github.io/DevNerd/",
+      "status": "Completed"
+    },
+    {
+      "name": "Auction Hub",
+      "description": "An online auction site built with microservices. Developed monitoring solutions with Prometheus and Grafana, configured auto-scaling including VPA and HPA, and developed CI pipeline using GitHub Actions and Kubernetes manifests.",
+      "tech": ["Microservices", "Kubernetes", "Prometheus", "Grafana", "GitHub Actions"],
+      "github": "https://github.com/TheTharz/auction-test",
+      "website": null,
+      "status": "Completed"
+    },
+    {
+      "name": "DesignFlow",
+      "description": "A social media platform for designers to share designs and get community exposure. Features comprehensive CI/CD pipeline with static code analysis, image scanning, and automated deployments using Jenkins, SonarQube, Trivy, Docker, Terraform, Ansible, Kubernetes, and Argo CD.",
+      "tech": ["MERN Stack", "Jenkins", "Docker", "Kubernetes", "Argo CD", "Terraform", "Ansible"],
+      "github": "https://github.com/TheTharz/DesignFlow",
+      "website": null,
+      "status": "Completed"
+    },
+    {
+      "name": "Ruhuna Academic Site",
+      "description": "Website developed for hosting academic sessions for University Of Ruhuna, hosted by Faculty of Engineering.",
+      "tech": ["Web Development"],
+      "github": null,
+      "website": "http://ruh.ac.lk",
+      "status": "Completed (2026)"
+    },
+    {
+      "name": "AI Code Analyzer",
+      "description": "An AI-powered tool for detecting and explaining vulnerabilities in C code using advanced machine learning models. Developed a VS Code extension for seamless integration with developers.",
+      "tech": ["AI/ML", "VS Code Extension", "C"],
+      "github": "https://github.com/TheTharz/C-Code-Scanner-And-Vulnerability-Identifier",
+      "website": null,
+      "status": "Completed"
+    },
+    {
+      "name": "HPC Image Processing",
+      "description": "Parallelizing image kernel processing using HPC techniques. Demonstrates four computational approaches: Serial (CPU), OpenMP (multi-threaded), CUDA (GPU), and Hybrid (OpenMP + CUDA).",
+      "tech": ["C", "OpenMP", "CUDA", "HPC"],
+      "github": "https://github.com/TheTharz/HPC-Project",
+      "website": null,
+      "status": "Completed"
+    },
+    {
+      "name": "React Voicify",
+      "description": "A React library to convert text to speech using Web Speech API. Published on NPM with features for voice selection, speech rate, pitch, and volume control.",
+      "tech": ["React", "Web Speech API", "NPM Library"],
+      "github": "https://github.com/TheTharz/react-voicify",
+      "website": "https://www.npmjs.com/package/react-voicify",
+      "status": "Published"
+    },
+    {
+      "name": "TutorHub",
+      "description": "A mobile application developed with Flutter to simplify finding home tutors. Enhances connectivity between students and tutors through a user-friendly environment.",
+      "tech": ["Flutter", "Mobile Development"],
+      "github": "https://github.com/TheTharz/TutorHub",
+      "website": null,
+      "status": "Completed"
+    },
+    {
+      "name": "Quiz Application",
+      "description": "A quiz application including answering and quiz creation features built with MERN stack.",
+      "tech": ["MERN Stack"],
+      "github": "https://github.com/TheTharz/Quizeeeeer",
+      "website": null,
+      "status": "Completed"
+    }
+  ]
+}

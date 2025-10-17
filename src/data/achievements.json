@@ -1,0 +1,52 @@
+{
+  "achievements": [
+    {
+      "title": "Cyberzee 2024",
+      "position": "1st Place",
+      "description": "Proud to be part of CypherX, the winning team from the University of Ruhuna at CyberZee '24, an inter-university cybersecurity competition. Our team's dedication, problem-solving skills, and technical expertise in cybersecurity challenges led us to secure the championship among top university teams.",
+      "year": "2024"
+    },
+    {
+      "title": "Innovate with Ballerina 2025",
+      "position": "First Runners Up",
+      "description": "As the team leader, I guided the development of E-Rides, a comprehensive e-bike rental platform designed to address urban challenges like traffic congestion and pollution. Secured first runners up position among 500 teams.",
+      "year": "2025"
+    },
+    {
+      "title": "IEEE Innovation Nation Sri Lanka",
+      "position": "Champions - Southern Province",
+      "description": "As a team member of the award-winning group in the Southern Province competition, secured 1st place with our innovative idea to build an application for online medicine finding for rare medicines.",
+      "year": "2023"
+    },
+    {
+      "title": "Tech Triathlon by Root Code",
+      "position": "Selected to Phase 3",
+      "description": "Passed the design challenge, hackathon challenge, and AI challenge to advance to phase 3.",
+      "year": "2024"
+    },
+    {
+      "title": "HaXtreme 2.0",
+      "position": "5th Place",
+      "description": "Competitive coding competition organized by IEEE Student Branch at University of Ruhuna. Secured 5th place among 80+ teams as team BrainLeft.",
+      "year": "2023"
+    },
+    {
+      "title": "IEEE XTreme 17.0",
+      "position": "90th in Sri Lanka, 3rd in University",
+      "description": "24-hour global competitive programming competition. As team BrainLeft, placed 90th in Sri Lanka and secured 3rd place at University of Ruhuna.",
+      "year": "2023"
+    },
+    {
+      "title": "Eminence 3.0",
+      "position": "6th Place",
+      "description": "Inter University Technical Competition with MATLAB, Networking (CISCO Packet Tracer), Competitive Programming, and Innovation tasks. Achieved 6th place as team SparkLink.",
+      "year": "2023"
+    },
+    {
+      "title": "MORAUXplore 1.0",
+      "position": "Top 30",
+      "description": "UI/UX design competition held by IEEE student branch of University of Moratuwa. Advanced to top 30 teams as team UniMatrix.",
+      "year": "2023"
+    }
+  ]
+}

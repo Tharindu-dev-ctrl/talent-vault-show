@@ -1,0 +1,27 @@
+{
+  "positions": [
+    {
+      "company": "Zoomi Technologies Inc",
+      "role": "Part-time Software Engineer",
+      "period": "February 2025 - August 2025",
+      "description": "Continued working on project LayerNext. Handled customer deployments, initialized new LayerNext setups for customers, and worked with Kerberos authentication mechanisms.",
+      "highlights": [
+        "Customer deployments and setup",
+        "Kerberos authentication implementation",
+        "LayerNext platform maintenance"
+      ]
+    },
+    {
+      "company": "Zoomi Technologies Inc",
+      "role": "Software Engineering Intern",
+      "period": "June 2024 - January 2025",
+      "description": "Worked on LayerNext, a strategic business intelligence platform. Primarily focused on backend development, infrastructure management, and automation (DevOps).",
+      "highlights": [
+        "Developed ETL pipelines integrating MySQL, PostgreSQL, MSSQL, Snowflake, BigQuery, Redshift, Databricks",
+        "Implemented data crawling mechanisms for custom APIs",
+        "Worked on both AWS and Azure cloud environments",
+        "Implemented automation framework for deploying LayerNext"
+      ]
+    }
+  ]
+}

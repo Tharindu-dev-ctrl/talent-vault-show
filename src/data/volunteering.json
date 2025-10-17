@@ -1,0 +1,46 @@
+{
+  "activities": [
+    {
+      "role": "Resource Person",
+      "event": "HaXtreme 4.0 Workshop Series",
+      "organization": "IEEE Computer Society University of Ruhuna",
+      "description": "Conducted a workshop on Advanced Problem Solving Techniques. Discussed three key techniques including dynamic programming, sliding window and shortest path algorithms with hands-on coding.",
+      "category": "Teaching"
+    },
+    {
+      "role": "Resource Person",
+      "event": "Axiom Workshop Series",
+      "organization": "IEEE Computer Society University of Ruhuna",
+      "description": "Conducted workshops on competitive programming under AXIOM 2.0 workshop series. Mainly focused on competitive programming with C++.",
+      "category": "Teaching"
+    },
+    {
+      "role": "Technical Team Member",
+      "event": "RedCypher 1.0",
+      "organization": "IEEE Computer Society University of Ruhuna",
+      "description": "Contributed to RedCypher 1.0, the first ever CTF competition organized by a government university. Created CTF challenges and solutions and provided support for required software infrastructure.",
+      "category": "Technical"
+    },
+    {
+      "role": "OC Member",
+      "event": "HaXtreme 3.0",
+      "organization": "IEEE Computer Society University of Ruhuna",
+      "description": "Developed competitive programming questions for HaxTreme hackathon.",
+      "category": "Technical"
+    },
+    {
+      "role": "Technical Team Member",
+      "event": "RedCypher 2.0",
+      "organization": "IEEE Computer Society University of Ruhuna",
+      "description": "Developed CTF tasks for RedCypher 2.0. Managed infrastructure related to CTF competition.",
+      "category": "Technical"
+    },
+    {
+      "role": "Teacher",
+      "event": "Mathematics Seminars",
+      "organization": "Mehewara",
+      "description": "Conducted 12 mathematics seminars for O/L students in rural areas.",
+      "category": "Education"
+    }
+  ]
+}
